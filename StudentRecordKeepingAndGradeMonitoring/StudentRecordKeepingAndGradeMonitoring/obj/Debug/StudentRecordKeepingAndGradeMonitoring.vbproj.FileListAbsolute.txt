@@ -1,0 +1,1 @@
+c:\users\maricar\documents\visual studio 2013\Projects\StudentRecordKeepingAndGradeMonitoring\StudentRecordKeepingAndGradeMonitoring\bin\Debug\StudentRecordKeepingAndGradeMonitoring.exe.config
